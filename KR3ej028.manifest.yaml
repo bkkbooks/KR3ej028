@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej028_000.yaml, hash: 'sha256:4df9670651c8ecd10dc1686f1b131032e4ddb8ea20357dd5fd69dff7799f0eec'}
+  - {seq: 0, filename: KR3ej028_000.yaml, hash: 'sha256:558d439ffb53c8e9f489424b247d1a5aa845072af1baa92e580fcc3cd21cde6a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej028_000.markers.yaml, hash: 'sha256:9a29e2663fd84a65f97a209534d5539d14373262a06f803e044636ee57d72f96'}
+  - {seq: 0, role: markers, filename: assets/KR3ej028_000.markers.yaml, hash: 'sha256:071b9a8824ace1a99d873e5ca4bf568cf58e9d48b6162aca00f91f4d34be35f2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -360,7 +360,4 @@ table_of_contents:
   label: 痧疹
   type: section
   level: 1
-hash: sha256:6b92c7696e92eb256f795cba869686b0b0803c184cf7f4eb0dc2878a80e0ead4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1e3f60b6e60142b362e959a97e650821e64fea8e883645dcb4c8600615aa9250
