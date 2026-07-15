@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej028/v1
 canonical_location: https://kanripo.org/bkk/KR3ej028/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 陳氏幼科秘訣
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej028_000.yaml, hash: 'sha256:558d439ffb53c8e9f489424b247d1a5aa845072af1baa92e580fcc3cd21cde6a'}
+  - {seq: 0, filename: KR3ej028_000.yaml, hash: 'sha256:32f200739b86b42ee71de117184fa43fe2f66ed876d9343d4dc8401b46302c05'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej028_000.markers.yaml, hash: 'sha256:071b9a8824ace1a99d873e5ca4bf568cf58e9d48b6162aca00f91f4d34be35f2'}
+  - {seq: 0, role: markers, filename: assets/KR3ej028_000.markers.yaml, hash: 'sha256:857707798cdbdb2a15bf6f5e316fdd9388e85dc60bd7e4b81fe002303fefdbe6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -360,4 +360,7 @@ table_of_contents:
   label: 痧疹
   type: section
   level: 1
-hash: sha256:1e3f60b6e60142b362e959a97e650821e64fea8e883645dcb4c8600615aa9250
+hash: sha256:6e50bb26570dc99b6e809620107ce61900143b3b00926f6f595851061d6c4d8a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
