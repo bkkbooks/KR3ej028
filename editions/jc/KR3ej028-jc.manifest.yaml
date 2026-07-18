@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ej028_000-jc.yaml, hash: 'sha256:558d439ffb53c8e9f489424b247d1a5aa845072af1baa92e580fcc3cd21cde6a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej028_000-jc.markers.yaml, hash: 'sha256:d56450e72e2ae997622efa40daad0186972079e9eee75fcba75cfaa3d01219c0'}
+  - {seq: 0, role: markers, filename: assets/KR3ej028_000-jc.markers.yaml, hash: 'sha256:2f418bafc672ef1a08c57fa8d237de479d6b5c29eae8c2755b6de03bcc3b1c47'}
 table_of_contents:
 - ref:
     seq: 0
@@ -360,4 +360,4 @@ table_of_contents:
   label: 痧疹
   type: section
   level: 1
-hash: sha256:d3b8016690da96b8d606876fbc6b77ace8c218231094f157e1a47c8b43918757
+hash: sha256:80301b8de1526e714f4b1e8d37a5cd7d646784151ca8b4fb2fbf26bf37e8983c

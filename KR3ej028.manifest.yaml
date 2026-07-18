@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ej028_000.yaml, hash: 'sha256:32f200739b86b42ee71de117184fa43fe2f66ed876d9343d4dc8401b46302c05'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej028_000.markers.yaml, hash: 'sha256:857707798cdbdb2a15bf6f5e316fdd9388e85dc60bd7e4b81fe002303fefdbe6'}
+  - {seq: 0, role: markers, filename: assets/KR3ej028_000.markers.yaml, hash: 'sha256:43ac0df68cb79738b39e405f077b3ded23ad7055317d0f47d931798a420ad338'}
 table_of_contents:
 - ref:
     seq: 0
@@ -360,7 +360,7 @@ table_of_contents:
   label: 痧疹
   type: section
   level: 1
-hash: sha256:6e50bb26570dc99b6e809620107ce61900143b3b00926f6f595851061d6c4d8a
+hash: sha256:33772151577b12f05b5b06fbe0fde7692464ed0948209eae552f6ba23b6f5bed
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
